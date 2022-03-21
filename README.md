@@ -32,3 +32,7 @@ Your task will be considered successful if a colleague is able to deploy your ma
 - Code quality and style: your code must be easy for others to read, and properly documented when relevant.
 
 - Container best practices: your container image should be as small as possible, without unnecessary bloat.
+
+Imagine that someone with less experience than you will need to clone your repository and deploy your microservice. With that in mind, you must provide ALL the instructions they will need to do that successfully. These must include any prerequisites for deployment, mention of needed tools and links to their installation pages, how to configure credentials for the tool of your choice, and what commands to run for bringing your application to life.
+
+We want to see your ability to properly document and communicate about your work with the team and customers.
